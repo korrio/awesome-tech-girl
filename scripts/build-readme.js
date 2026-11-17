@@ -18,7 +18,8 @@ for (const p of people) {
 const slug = (s) => s.toLowerCase().replace(/[^a-z0-9 -]/g, "").trim().replace(/\s+/g, "-");
 
 const line = (p) => {
-  let s = `- **${p.name}** - [@${p.handle}](${p.url})`;
+  const label = p.platform === "linkedin" ? "LinkedIn" : `@${p.handle}`;
+  let s = `- **${p.name}** - [${label}](${p.url})`;
   if (p.bio) s += ` - ${p.bio}`;
   const tags = (p.tags || []).map((t) => TAGS[t]);
   if (tags.length) s += ` · ${tags.join(" · ")}`;

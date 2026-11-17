@@ -19,6 +19,7 @@ const TAGS = {
   builder: "🛠️ builds in public",
   founder: "🚀 founder",
   teacher: "📚 teacher",
+  thai: "🇹🇭 Thai",
 };
 
 if (typeof module !== "undefined") module.exports = { CATEGORIES, TAGS };

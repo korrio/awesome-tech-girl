@@ -115,5 +115,29 @@
       "teacher"
     ],
     "recommended": false
+  },
+  {
+    "name": "Phitchaya Mangpo Phothilimthana",
+    "handle": "phitchaya-mangpo-phothilimthana-64415b82",
+    "platform": "linkedin",
+    "url": "https://www.linkedin.com/in/phitchaya-mangpo-phothilimthana-64415b82",
+    "category": "AI_ML",
+    "bio": "Member of Technical Staff (HW-SW codesign) at OpenAI; formerly Google DeepMind/Brain, where she created the XLA TPU autotuner and led ML for ML Compilers. First female student to represent Thailand at IOI.",
+    "tags": [
+      "thai"
+    ],
+    "recommended": false
+  },
+  {
+    "name": "Pasapol Saowakon",
+    "handle": "zoomswk",
+    "platform": "linkedin",
+    "url": "https://www.linkedin.com/in/zoomswk",
+    "category": "AI_ML",
+    "bio": "Software Engineer at Google DeepMind (Mountain View), working on production AI systems; previously at SCB in Bangkok.",
+    "tags": [
+      "thai"
+    ],
+    "recommended": false
   }
 ]

@@ -12,6 +12,7 @@ Inclusion is based on **public work**: shipping, open source, writing, teaching,
 - 🛠️ builds in public
 - 🚀 founder
 - 📚 teacher
+- 🇹🇭 Thai
 - :star: Highly recommended follow
 
 ## Contents
@@ -33,6 +34,8 @@ Inclusion is based on **public work**: shipping, open source, writing, teaching,
 - **Gintare Karolina Dziugaite** - [@GintareKaDz](https://x.com/GintareKaDz) - Senior Research Scientist at Google DeepMind; adjunct professor at McGill, Mila associate. Deep learning theory, generalization.
 - **Jane Wang** - [@janexwang](https://x.com/janexwang) - Senior Staff Research Scientist at Google DeepMind. AI and neuroscience, meta-learning, agents.
 - **Joelle Pineau** - [@jpineau1](https://x.com/jpineau1) - Former VP of AI Research at Meta, leading FAIR; professor at McGill. RL, robotics, open-source and responsible AI. · 🌱 open source · 📚 teacher
+- **Pasapol Saowakon** - [LinkedIn](https://www.linkedin.com/in/zoomswk) - Software Engineer at Google DeepMind (Mountain View), working on production AI systems; previously at SCB in Bangkok. · 🇹🇭 Thai
+- **Phitchaya Mangpo Phothilimthana** - [LinkedIn](https://www.linkedin.com/in/phitchaya-mangpo-phothilimthana-64415b82) - Member of Technical Staff (HW-SW codesign) at OpenAI; formerly Google DeepMind/Brain, where she created the XLA TPU autotuner and led ML for ML Compilers. First female student to represent Thailand at IOI. · 🇹🇭 Thai
 - **Raia Hadsell** - [@RaiaHadsell](https://x.com/RaiaHadsell) - VP of Research at Google DeepMind; co-leads the Frontier AI unit. RL, robotics, AGI. · 🎤 speaker
 - **Roberta Raileanu** - [@RobertaRaileanu](https://x.com/RobertaRaileanu) - Senior Staff Research Scientist at Google DeepMind; leads the Open-Endedness team. Previously Meta GenAI AI Scientist team.
 - **Stephanie Chan** - [@scychan_brains](https://x.com/scychan_brains) - Staff Research Scientist at Google DeepMind. AI and biological brains, AI safety, science of AI.

@@ -78,7 +78,7 @@
         for (const p of items) {
           const card = el("div", "card");
           card.append(el("div", "name", p.name + (p.recommended ? " ⭐" : "")));
-          const a = el("a", null, "@" + p.handle);
+          const a = el("a", null, p.platform === "linkedin" ? "LinkedIn" : "@" + p.handle);
           a.href = p.url; a.target = "_blank"; a.rel = "noopener";
           card.append(a);
           if (p.bio) card.append(el("p", "bio", p.bio));
