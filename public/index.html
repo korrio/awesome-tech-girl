@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Awesome Tech Girls</title>
+  <meta property="og:title" content="Awesome Tech Girls">
+  <meta property="og:description" content="A curated list of outstanding, active women in the tech industry.">
+  <style>
+    :root { --bg:#fff; --fg:#1a1a1a; --muted:#666; --card:#f6f6f8; --accent:#7c3aed; --border:#e5e5ea; }
+    @media (prefers-color-scheme: dark) {
+      :root { --bg:#0f0f12; --fg:#ececf1; --muted:#9a9aa5; --card:#18181d; --accent:#a78bfa; --border:#2a2a32; }
+    }
+    * { box-sizing: border-box; }
+    body { margin:0; background:var(--bg); color:var(--fg); font:16px/1.5 system-ui,-apple-system,sans-serif; }
+    main { max-width:960px; margin:0 auto; padding:32px 16px 64px; }
+    h1 { margin:0 0 4px; font-size:2rem; }
+    .lead { color:var(--muted); margin:0 0 24px; }
+    .controls { display:flex; flex-wrap:wrap; gap:8px; margin-bottom:24px; }
+    input { flex:1 1 220px; padding:10px 12px; border:1px solid var(--border); border-radius:8px; background:var(--card); color:var(--fg); font:inherit; }
+    select { padding:10px 12px; border:1px solid var(--border); border-radius:8px; background:var(--card); color:var(--fg); font:inherit; }
+    h2 { font-size:1.15rem; margin:32px 0 12px; }
+    .grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(260px,1fr)); gap:12px; }
+    .card { background:var(--card); border:1px solid var(--border); border-radius:12px; padding:14px 16px; }
+    .card a { color:var(--accent); text-decoration:none; font-weight:600; }
+    .card a:hover { text-decoration:underline; }
+    .name { font-weight:600; }
+    .bio { color:var(--muted); font-size:.92rem; margin:4px 0 0; }
+    .tags { display:flex; flex-wrap:wrap; gap:6px; margin-top:8px; }
+    .tag { font-size:.78rem; border:1px solid var(--border); border-radius:999px; padding:2px 8px; }
+    .empty { color:var(--muted); }
+    footer { margin-top:48px; color:var(--muted); font-size:.9rem; }
+    footer a { color:var(--accent); }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>Awesome Tech Girls</h1>
+    <p class="lead">Outstanding, active women in tech — chosen for their public work: shipping, open source, writing, teaching and building in public.</p>
+    <div class="controls">
+      <input id="q" type="search" placeholder="Search name, handle or bio…" aria-label="Search">
+      <select id="cat" aria-label="Category"><option value="">All categories</option></select>
+    </div>
+    <div id="list"><p class="empty">Loading…</p></div>
+    <footer>Want to add someone? Open a PR on GitHub — see CONTRIBUTING.md.</footer>
+  </main>
+  <script src="categories.js"></script>
+  <script>
+    const listEl = document.getElementById("list");
+    const qEl = document.getElementById("q");
+    const catEl = document.getElementById("cat");
+    let people = [];
+
+    for (const c of CATEGORIES) catEl.add(new Option(c.title, c.id));
+
+    function el(tag, cls, text) {
+      const e = document.createElement(tag);
+      if (cls) e.className = cls;
+      if (text != null) e.textContent = text;
+      return e;
+    }
+
+    function render() {
+      const q = qEl.value.trim().toLowerCase();
+      const cat = catEl.value;
+      const match = (p) =>
+        (!cat || p.category === cat) &&
+        (!q || [p.name, p.handle, p.bio].join(" ").toLowerCase().includes(q));
+      listEl.replaceChildren();
+      let shown = 0;
+      for (const c of CATEGORIES) {
+        const items = people.filter((p) => p.category === c.id && match(p))
+          .sort((a, b) => a.name.localeCompare(b.name));
+        if (!items.length) continue;
+        shown += items.length;
+        listEl.append(el("h2", null, c.title));
+        const grid = el("div", "grid");
+        for (const p of items) {
+          const card = el("div", "card");
+          card.append(el("div", "name", p.name + (p.recommended ? " ⭐" : "")));
+          const a = el("a", null, "@" + p.handle);
+          a.href = p.url; a.target = "_blank"; a.rel = "noopener";
+          card.append(a);
+          if (p.bio) card.append(el("p", "bio", p.bio));
+          if (p.tags && p.tags.length) {
+            const tags = el("div", "tags");
+            for (const t of p.tags) tags.append(el("span", "tag", TAGS[t] || t));
+            card.append(tags);
+          }
+          grid.append(card);
+        }
+        listEl.append(grid);
+      }
+      if (!shown) listEl.append(el("p", "empty", "No matches."));
+    }
+
+    qEl.addEventListener("input", render);
+    catEl.addEventListener("change", render);
+    fetch("people.json").then((r) => r.json()).then((d) => { people = d; render(); })
+      .catch(() => listEl.replaceChildren(el("p", "empty", "Could not load people.json.")));
+  </script>
+</body>
+</html>

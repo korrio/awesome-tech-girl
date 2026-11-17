@@ -1,0 +1,119 @@
+[
+  {
+    "name": "poteto",
+    "handle": "poteto",
+    "url": "https://x.com/poteto",
+    "category": "SOFTWARE_ENGINEERING",
+    "bio": "",
+    "tags": [],
+    "recommended": true
+  },
+  {
+    "name": "averycode",
+    "handle": "averycode",
+    "url": "https://x.com/averycode",
+    "category": "SOFTWARE_ENGINEERING",
+    "bio": "",
+    "tags": [],
+    "recommended": true
+  },
+  {
+    "name": "Raia Hadsell",
+    "handle": "RaiaHadsell",
+    "url": "https://x.com/RaiaHadsell",
+    "category": "AI_ML",
+    "bio": "VP of Research at Google DeepMind; co-leads the Frontier AI unit. RL, robotics, AGI.",
+    "tags": [
+      "speaker"
+    ],
+    "recommended": false
+  },
+  {
+    "name": "Carrie J. Cai",
+    "handle": "carrie_j_cai",
+    "url": "https://x.com/carrie_j_cai",
+    "category": "AI_ML",
+    "bio": "Senior Staff Research Scientist, Google DeepMind / PAIR; leads Human-AI Interaction. LLMs, controllable AI.",
+    "tags": [],
+    "recommended": false
+  },
+  {
+    "name": "Roberta Raileanu",
+    "handle": "RobertaRaileanu",
+    "url": "https://x.com/RobertaRaileanu",
+    "category": "AI_ML",
+    "bio": "Senior Staff Research Scientist at Google DeepMind; leads the Open-Endedness team. Previously Meta GenAI AI Scientist team.",
+    "tags": [],
+    "recommended": false
+  },
+  {
+    "name": "Gintare Karolina Dziugaite",
+    "handle": "GintareKaDz",
+    "url": "https://x.com/GintareKaDz",
+    "category": "AI_ML",
+    "bio": "Senior Research Scientist at Google DeepMind; adjunct professor at McGill, Mila associate. Deep learning theory, generalization.",
+    "tags": [],
+    "recommended": false
+  },
+  {
+    "name": "Abigail See",
+    "handle": "abigail_e_see",
+    "url": "https://x.com/abigail_e_see",
+    "category": "AI_ML",
+    "bio": "Research Scientist at Google DeepMind; formerly Stanford NLP. NLP, LLMs, AI safety, research communication.",
+    "tags": [
+      "writer"
+    ],
+    "recommended": false
+  },
+  {
+    "name": "Jane Wang",
+    "handle": "janexwang",
+    "url": "https://x.com/janexwang",
+    "category": "AI_ML",
+    "bio": "Senior Staff Research Scientist at Google DeepMind. AI and neuroscience, meta-learning, agents.",
+    "tags": [],
+    "recommended": false
+  },
+  {
+    "name": "Stephanie Chan",
+    "handle": "scychan_brains",
+    "url": "https://x.com/scychan_brains",
+    "category": "AI_ML",
+    "bio": "Staff Research Scientist at Google DeepMind. AI and biological brains, AI safety, science of AI.",
+    "tags": [],
+    "recommended": false
+  },
+  {
+    "name": "Angeliki Lazaridou",
+    "handle": "aggielaz",
+    "url": "https://x.com/aggielaz",
+    "category": "AI_ML",
+    "bio": "Research Scientist at Google DeepMind. Language, agents, multimodal AI.",
+    "tags": [],
+    "recommended": false
+  },
+  {
+    "name": "Doina Precup",
+    "handle": "doina_precup",
+    "url": "https://x.com/doina_precup",
+    "category": "AI_ML",
+    "bio": "Heads Google DeepMind Montreal; professor at McGill. Leading reinforcement learning researcher.",
+    "tags": [
+      "teacher"
+    ],
+    "recommended": false
+  },
+  {
+    "name": "Joelle Pineau",
+    "handle": "jpineau1",
+    "url": "https://x.com/jpineau1",
+    "category": "AI_ML",
+    "bio": "Former VP of AI Research at Meta, leading FAIR; professor at McGill. RL, robotics, open-source and responsible AI.",
+    "tags": [
+      "oss",
+      "teacher"
+    ],
+    "recommended": false
+  }
+]
