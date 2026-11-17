@@ -13,7 +13,6 @@ Inclusion is based on **public work**: shipping, open source, writing, teaching,
 - 🚀 founder
 - 📚 teacher
 - 🇹🇭 Thai
-- 🇨🇦 Canadian
 - 🇷🇴 Romanian
 - :star: Highly recommended follow
 
@@ -32,10 +31,8 @@ Inclusion is based on **public work**: shipping, open source, writing, teaching,
 - **Abigail See** - [@abigail_e_see](https://x.com/abigail_e_see) - Research Scientist at Google DeepMind; formerly Stanford NLP. NLP, LLMs, AI safety, research communication. · ✍️ writer
 - **Angeliki Lazaridou** - [@aggielaz](https://x.com/aggielaz) - Research Scientist at Google DeepMind. Language, agents, multimodal AI.
 - **Carrie J. Cai** - [@carrie_j_cai](https://x.com/carrie_j_cai) - Senior Staff Research Scientist, Google DeepMind / PAIR; leads Human-AI Interaction. LLMs, controllable AI.
-- **Doina Precup** - [@doina_precup](https://x.com/doina_precup) - Heads Google DeepMind Montreal; professor at McGill. Leading reinforcement learning researcher. · 📚 teacher · 🇷🇴 Romanian
 - **Gintare Karolina Dziugaite** - [@GintareKaDz](https://x.com/GintareKaDz) - Senior Research Scientist at Google DeepMind; adjunct professor at McGill, Mila associate. Deep learning theory, generalization.
 - **Jane Wang** - [@janexwang](https://x.com/janexwang) - Senior Staff Research Scientist at Google DeepMind. AI and neuroscience, meta-learning, agents.
-- **Joelle Pineau** - [@jpineau1](https://x.com/jpineau1) - Chief AI Officer at Cohere (since Aug 2025); former VP of AI Research at Meta, leading FAIR; professor at McGill. RL, robotics, open-source and responsible AI. · 🌱 open source · 📚 teacher · 🇨🇦 Canadian
 - **Pasapol Saowakon** - [LinkedIn](https://www.linkedin.com/in/zoomswk) - Software Engineer at Google DeepMind (Mountain View), working on production AI systems; previously at SCB in Bangkok. · 🇹🇭 Thai
 - **Phitchaya Mangpo Phothilimthana** - [LinkedIn](https://www.linkedin.com/in/phitchaya-mangpo-phothilimthana-64415b82) - Member of Technical Staff (HW-SW codesign) at OpenAI; formerly Google DeepMind/Brain, where she created the XLA TPU autotuner and led ML for ML Compilers. First female student to represent Thailand at IOI. · 🇹🇭 Thai
 - **Raia Hadsell** - [@RaiaHadsell](https://x.com/RaiaHadsell) - VP of Research at Google DeepMind; co-leads the Frontier AI unit. RL, robotics, AGI. · 🎤 speaker

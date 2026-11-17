@@ -96,31 +96,6 @@
     "recommended": false
   },
   {
-    "name": "Doina Precup",
-    "handle": "doina_precup",
-    "url": "https://x.com/doina_precup",
-    "category": "AI_ML",
-    "bio": "Heads Google DeepMind Montreal; professor at McGill. Leading reinforcement learning researcher.",
-    "tags": [
-      "teacher",
-      "romanian"
-    ],
-    "recommended": false
-  },
-  {
-    "name": "Joelle Pineau",
-    "handle": "jpineau1",
-    "url": "https://x.com/jpineau1",
-    "category": "AI_ML",
-    "bio": "Chief AI Officer at Cohere (since Aug 2025); former VP of AI Research at Meta, leading FAIR; professor at McGill. RL, robotics, open-source and responsible AI.",
-    "tags": [
-      "oss",
-      "teacher",
-      "canadian"
-    ],
-    "recommended": false
-  },
-  {
     "name": "Phitchaya Mangpo Phothilimthana",
     "handle": "phitchaya-mangpo-phothilimthana-64415b82",
     "platform": "linkedin",

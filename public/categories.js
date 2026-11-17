@@ -20,7 +20,6 @@ const TAGS = {
   founder: "🚀 founder",
   teacher: "📚 teacher",
   thai: "🇹🇭 Thai",
-  canadian: "🇨🇦 Canadian",
   romanian: "🇷🇴 Romanian",
 };
 
