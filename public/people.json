@@ -112,5 +112,328 @@
       "thai"
     ],
     "recommended": false
+  },
+  {
+    "name": "Monthira Chayabanjonglerd (MikkiPastel)",
+    "handle": "mikkipastel",
+    "url": "https://x.com/mikkipastel",
+    "category": "SOFTWARE_ENGINEERING",
+    "bio": "Android engineer and content creator; speaker at Women Techmakers Bangkok",
+    "tags": [
+      "thai"
+    ],
+    "recommended": false
+  },
+  {
+    "name": "Burasakorn Sabyeying (mils)",
+    "handle": "mesodiar",
+    "url": "https://x.com/mesodiar",
+    "category": "DATA",
+    "bio": "Data Engineer, Google Developer Expert (Cloud), WTM Ambassador",
+    "tags": [
+      "thai"
+    ],
+    "recommended": false
+  },
+  {
+    "name": "Kamolphan Liwprasert (Fony)",
+    "handle": "fony_lew",
+    "url": "https://x.com/fony_lew",
+    "category": "INFRA_DEVOPS",
+    "bio": "Google Developer Expert (Cloud), WTM Ambassador, GDG Cloud Bangkok",
+    "tags": [
+      "thai"
+    ],
+    "recommended": false
+  },
+  {
+    "name": "Gatuk S. Chattanon",
+    "handle": "gatukgl",
+    "url": "https://x.com/gatukgl",
+    "category": "SOFTWARE_ENGINEERING",
+    "bio": "Lead Software Engineer at Jitta; PyLadies Bangkok organizer",
+    "tags": [
+      "thai"
+    ],
+    "recommended": false
+  },
+  {
+    "name": "Madoka Chiyoda (ちょまど)",
+    "handle": "chomado",
+    "url": "https://x.com/chomado",
+    "category": "DEVREL_EDUCATION",
+    "bio": "Developer Advocate at Microsoft Japan; co-founder of Code Polaris",
+    "tags": [],
+    "recommended": false
+  },
+  {
+    "name": "Aya Tokura (戸倉彩)",
+    "handle": "ayatokura",
+    "url": "https://x.com/ayatokura",
+    "category": "AI_ML",
+    "bio": "Engineer at IBM Japan AI Lab; ex-Microsoft Japan",
+    "tags": [],
+    "recommended": false
+  },
+  {
+    "name": "だむは",
+    "handle": "damuha_",
+    "url": "https://x.com/damuha_",
+    "category": "FOUNDERS_LEADERS",
+    "bio": "CEO/CTO building AI recruiting tools; Forbes JAPAN Women in Tech 30",
+    "tags": [],
+    "recommended": false
+  },
+  {
+    "name": "Kazumi Ohira (dz)",
+    "handle": "dz_",
+    "url": "https://x.com/dz_",
+    "category": "INFRA_DEVOPS",
+    "bio": "GitHub Star (IaC/DevOps); Code Polaris organizer",
+    "tags": [],
+    "recommended": false
+  },
+  {
+    "name": "Kona (코나)",
+    "handle": "womanwhomakesai",
+    "url": "https://x.com/womanwhomakesai",
+    "category": "AI_ML",
+    "bio": "AI engineer in Korea; shares learning notes",
+    "tags": [],
+    "recommended": false
+  },
+  {
+    "name": "Jane",
+    "handle": "janechao_dev",
+    "url": "https://x.com/janechao_dev",
+    "category": "SOFTWARE_ENGINEERING",
+    "bio": "iOS developer in Taiwan; Codex Ambassador",
+    "tags": [],
+    "recommended": false
+  },
+  {
+    "name": "Anna Lu (呂鈺鋒)",
+    "handle": "annalu_tw",
+    "url": "https://x.com/annalu_tw",
+    "category": "FRONTEND_WEB",
+    "bio": "Frontend engineer in Taiwan",
+    "tags": [],
+    "recommended": false
+  },
+  {
+    "name": "Hong Phuc Dang",
+    "handle": "hpdang",
+    "url": "https://x.com/hpdang",
+    "category": "FOUNDERS_LEADERS",
+    "bio": "Founder of FOSSASIA; open source in Asia",
+    "tags": [],
+    "recommended": false
+  },
+  {
+    "name": "Pascale Fung",
+    "handle": "pascalefung",
+    "url": "https://x.com/pascalefung",
+    "category": "AI_ML",
+    "bio": "NLP researcher, professor at HKUST",
+    "tags": [],
+    "recommended": false
+  },
+  {
+    "name": "Fei-Fei Li",
+    "handle": "drfeifei",
+    "url": "https://x.com/drfeifei",
+    "category": "AI_ML",
+    "bio": "Stanford professor; co-founder of World Labs",
+    "tags": [],
+    "recommended": false
+  },
+  {
+    "name": "Julie Zhuo",
+    "handle": "joulee",
+    "url": "https://x.com/joulee",
+    "category": "DESIGN_ENGINEERING",
+    "bio": "Ex-VP Design at Facebook; author of The Making of a Manager",
+    "tags": [],
+    "recommended": false
+  },
+  {
+    "name": "Lisa Su",
+    "handle": "LisaSu",
+    "url": "https://x.com/LisaSu",
+    "category": "FOUNDERS_LEADERS",
+    "bio": "CEO of AMD",
+    "tags": [],
+    "recommended": false
+  },
+  {
+    "name": "Lilian Weng",
+    "handle": "lilianweng",
+    "url": "https://x.com/lilianweng",
+    "category": "AI_ML",
+    "bio": "Author of the Lil'Log ML blog",
+    "tags": [],
+    "recommended": false
+  },
+  {
+    "name": "Jess Lee",
+    "handle": "jesskah",
+    "url": "https://x.com/jesskah",
+    "category": "FOUNDERS_LEADERS",
+    "bio": "Partner at Sequoia; co-founder of Polyvore",
+    "tags": [],
+    "recommended": false
+  },
+  {
+    "name": "Jane Manchun Wong",
+    "handle": "wongmjane",
+    "url": "https://x.com/wongmjane",
+    "category": "SOFTWARE_ENGINEERING",
+    "bio": "Reverse-engineers unreleased app features; ex-Threads/Instagram",
+    "tags": [],
+    "recommended": false
+  },
+  {
+    "name": "Sarah Guo",
+    "handle": "saranormous",
+    "url": "https://x.com/saranormous",
+    "category": "FOUNDERS_LEADERS",
+    "bio": "Founder of Conviction; No Priors podcast",
+    "tags": [],
+    "recommended": false
+  },
+  {
+    "name": "Aileen Lee",
+    "handle": "aileenlee",
+    "url": "https://x.com/aileenlee",
+    "category": "FOUNDERS_LEADERS",
+    "bio": "Founder of Cowboy Ventures",
+    "tags": [],
+    "recommended": false
+  },
+  {
+    "name": "Chip Huyen",
+    "handle": "chipro",
+    "url": "https://x.com/chipro",
+    "category": "AI_ML",
+    "bio": "Author of AI Engineering and Designing Machine Learning Systems",
+    "tags": [],
+    "recommended": false
+  },
+  {
+    "name": "Tracy Chou",
+    "handle": "triketora",
+    "url": "https://x.com/triketora",
+    "category": "SOFTWARE_ENGINEERING",
+    "bio": "Engineer at Anthropic; ex-Pinterest; founder of Block Party and Project Include",
+    "tags": [],
+    "recommended": false
+  },
+  {
+    "name": "Lucy Guo",
+    "handle": "lucy_guo",
+    "url": "https://x.com/lucy_guo",
+    "category": "FOUNDERS_LEADERS",
+    "bio": "Co-founder of Scale AI and Backend Capital",
+    "tags": [],
+    "recommended": false
+  },
+  {
+    "name": "Ann Miura-Ko",
+    "handle": "annimaniac",
+    "url": "https://x.com/annimaniac",
+    "category": "FOUNDERS_LEADERS",
+    "bio": "Partner at Floodgate",
+    "tags": [],
+    "recommended": false
+  },
+  {
+    "name": "Dawn Song",
+    "handle": "dawnsongtweets",
+    "url": "https://x.com/dawnsongtweets",
+    "category": "SECURITY",
+    "bio": "UC Berkeley professor; security and safe AI",
+    "tags": [],
+    "recommended": false
+  },
+  {
+    "name": "Yejin Choi",
+    "handle": "YejinChoinka",
+    "url": "https://x.com/YejinChoinka",
+    "category": "AI_ML",
+    "bio": "NLP researcher, Stanford professor",
+    "tags": [],
+    "recommended": false
+  },
+  {
+    "name": "Clara Shih",
+    "handle": "clarashih",
+    "url": "https://x.com/clarashih",
+    "category": "FOUNDERS_LEADERS",
+    "bio": "Founder of Hearsay; ex-CEO of Salesforce AI",
+    "tags": [],
+    "recommended": false
+  },
+  {
+    "name": "Christine Tsai",
+    "handle": "christine_tsai",
+    "url": "https://x.com/christine_tsai",
+    "category": "FOUNDERS_LEADERS",
+    "bio": "CEO of 500 Global",
+    "tags": [],
+    "recommended": false
+  },
+  {
+    "name": "Edith Yeung",
+    "handle": "edithyeung",
+    "url": "https://x.com/edithyeung",
+    "category": "FOUNDERS_LEADERS",
+    "bio": "Investor at Race Capital",
+    "tags": [],
+    "recommended": false
+  },
+  {
+    "name": "Deb Liu",
+    "handle": "debliu_",
+    "url": "https://x.com/debliu_",
+    "category": "FOUNDERS_LEADERS",
+    "bio": "Ex-CEO of Ancestry; author of Take Back Your Power",
+    "tags": [],
+    "recommended": false
+  },
+  {
+    "name": "Cheryl Yeoh",
+    "handle": "cherylyeoh",
+    "url": "https://x.com/cherylyeoh",
+    "category": "FOUNDERS_LEADERS",
+    "bio": "Founder of Tiny Health",
+    "tags": [],
+    "recommended": false
+  },
+  {
+    "name": "Anima Anandkumar",
+    "handle": "AnimaAnandkumar",
+    "url": "https://x.com/AnimaAnandkumar",
+    "category": "AI_ML",
+    "bio": "Caltech professor; ex-NVIDIA AI research lead",
+    "tags": [],
+    "recommended": false
+  },
+  {
+    "name": "Maithra Raghu",
+    "handle": "maithra_raghu",
+    "url": "https://x.com/maithra_raghu",
+    "category": "AI_ML",
+    "bio": "Co-founder and CEO of Samaya AI; ex-Google Brain",
+    "tags": [],
+    "recommended": false
+  },
+  {
+    "name": "Shivani Poddar",
+    "handle": "shivanipod",
+    "url": "https://x.com/shivanipod",
+    "category": "AI_ML",
+    "bio": "Founder of Wajo; ex-Google DeepMind and Meta",
+    "tags": [],
+    "recommended": false
   }
 ]
