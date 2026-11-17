@@ -43,7 +43,9 @@
     "url": "https://x.com/RobertaRaileanu",
     "category": "AI_ML",
     "bio": "Senior Staff Research Scientist at Google DeepMind; leads the Open-Endedness team. Previously Meta GenAI AI Scientist team.",
-    "tags": [],
+    "tags": [
+      "romanian"
+    ],
     "recommended": false
   },
   {
@@ -100,7 +102,8 @@
     "category": "AI_ML",
     "bio": "Heads Google DeepMind Montreal; professor at McGill. Leading reinforcement learning researcher.",
     "tags": [
-      "teacher"
+      "teacher",
+      "romanian"
     ],
     "recommended": false
   },
@@ -109,10 +112,11 @@
     "handle": "jpineau1",
     "url": "https://x.com/jpineau1",
     "category": "AI_ML",
-    "bio": "Former VP of AI Research at Meta, leading FAIR; professor at McGill. RL, robotics, open-source and responsible AI.",
+    "bio": "Chief AI Officer at Cohere (since Aug 2025); former VP of AI Research at Meta, leading FAIR; professor at McGill. RL, robotics, open-source and responsible AI.",
     "tags": [
       "oss",
-      "teacher"
+      "teacher",
+      "canadian"
     ],
     "recommended": false
   },

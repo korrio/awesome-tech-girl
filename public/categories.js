@@ -20,6 +20,8 @@ const TAGS = {
   founder: "🚀 founder",
   teacher: "📚 teacher",
   thai: "🇹🇭 Thai",
+  canadian: "🇨🇦 Canadian",
+  romanian: "🇷🇴 Romanian",
 };
 
 if (typeof module !== "undefined") module.exports = { CATEGORIES, TAGS };
