@@ -30,6 +30,7 @@ People are listed for what they build and share. Entries that comment on appeara
 
    - `category`: one of the ids in `public/categories.js`
    - `tags`: any of `oss`, `speaker`, `writer`, `builder`, `founder`, `teacher`, `thai`, `romanian` (only add a nationality tag with a public source)
+   - `lastActive`: optional; date (YYYY-MM-DD) of their most recent post when you checked
    - `platform`: optional; set to `"linkedin"` when `url` is a LinkedIn profile (no X handle)
    - `bio`: keep it factual and about their work
 

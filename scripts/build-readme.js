@@ -33,6 +33,8 @@ let md = `# Awesome Tech Girls [![Awesome](https://awesome.re/badge.svg)](https:
 
 > A curated list of outstanding, active women in the tech industry — engineers, researchers, founders, designers and educators worth following and learning from.
 
+_X profiles last checked for existence and recent activity on 2026-11-17._
+
 Inclusion is based on **public work**: shipping, open source, writing, teaching, speaking or building in public. Not on looks or follower count.
 
 ## Legend

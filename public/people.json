@@ -1,21 +1,27 @@
 [
   {
-    "name": "poteto",
+    "name": "Lauren Tan",
     "handle": "poteto",
     "url": "https://x.com/poteto",
     "category": "SOFTWARE_ENGINEERING",
-    "bio": "",
-    "tags": [],
-    "recommended": true
+    "bio": "React Compiler core team; previously Cursor, Meta and Netflix.",
+    "tags": [
+      "oss"
+    ],
+    "recommended": true,
+    "lastActive": "2026-11-16"
   },
   {
-    "name": "averycode",
+    "name": "Avery",
     "handle": "averycode",
     "url": "https://x.com/averycode",
     "category": "SOFTWARE_ENGINEERING",
-    "bio": "",
-    "tags": [],
-    "recommended": true
+    "bio": "Building rankd.dev; psychology grad turned software engineer, ex-Apple and HubSpot.",
+    "tags": [
+      "builder"
+    ],
+    "recommended": true,
+    "lastActive": "2026-11-15"
   },
   {
     "name": "Raia Hadsell",
@@ -26,36 +32,30 @@
     "tags": [
       "speaker"
     ],
-    "recommended": false
-  },
-  {
-    "name": "Carrie J. Cai",
-    "handle": "carrie_j_cai",
-    "url": "https://x.com/carrie_j_cai",
-    "category": "AI_ML",
-    "bio": "Senior Staff Research Scientist, Google DeepMind / PAIR; leads Human-AI Interaction. LLMs, controllable AI.",
-    "tags": [],
-    "recommended": false
+    "recommended": false,
+    "lastActive": "2026-10-30"
   },
   {
     "name": "Roberta Raileanu",
-    "handle": "RobertaRaileanu",
-    "url": "https://x.com/RobertaRaileanu",
+    "handle": "robertarail",
+    "url": "https://x.com/robertarail",
     "category": "AI_ML",
     "bio": "Senior Staff Research Scientist at Google DeepMind; leads the Open-Endedness team. Previously Meta GenAI AI Scientist team.",
     "tags": [
       "romanian"
     ],
-    "recommended": false
+    "recommended": false,
+    "lastActive": "2026-11-11"
   },
   {
     "name": "Gintare Karolina Dziugaite",
-    "handle": "GintareKaDz",
-    "url": "https://x.com/GintareKaDz",
+    "handle": "gkdziugaite",
+    "url": "https://x.com/gkdziugaite",
     "category": "AI_ML",
     "bio": "Senior Research Scientist at Google DeepMind; adjunct professor at McGill, Mila associate. Deep learning theory, generalization.",
     "tags": [],
-    "recommended": false
+    "recommended": false,
+    "lastActive": "2026-09-16"
   },
   {
     "name": "Abigail See",
@@ -66,7 +66,8 @@
     "tags": [
       "writer"
     ],
-    "recommended": false
+    "recommended": false,
+    "lastActive": "2026-10-15"
   },
   {
     "name": "Jane Wang",
@@ -75,7 +76,8 @@
     "category": "AI_ML",
     "bio": "Senior Staff Research Scientist at Google DeepMind. AI and neuroscience, meta-learning, agents.",
     "tags": [],
-    "recommended": false
+    "recommended": false,
+    "lastActive": "2025-12-11"
   },
   {
     "name": "Stephanie Chan",
@@ -84,16 +86,8 @@
     "category": "AI_ML",
     "bio": "Staff Research Scientist at Google DeepMind. AI and biological brains, AI safety, science of AI.",
     "tags": [],
-    "recommended": false
-  },
-  {
-    "name": "Angeliki Lazaridou",
-    "handle": "aggielaz",
-    "url": "https://x.com/aggielaz",
-    "category": "AI_ML",
-    "bio": "Research Scientist at Google DeepMind. Language, agents, multimodal AI.",
-    "tags": [],
-    "recommended": false
+    "recommended": false,
+    "lastActive": "2026-11-13"
   },
   {
     "name": "Phitchaya Mangpo Phothilimthana",
